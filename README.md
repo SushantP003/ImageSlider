@@ -49,9 +49,5 @@ If you have **VS Code** installed, you can use the Live Server extension:
 2. Right-click on `index.html` and select **Open with Live Server**
 ```
 
-## 📷 Screenshots
-(Add screenshots of the project here)
 
-## 📜 License
-This project is open-source and free to use under the MIT License.
 
